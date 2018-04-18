@@ -7,6 +7,7 @@ var baseurl3 = "https://eun1.api.riotgames.com/lol/match/v3/matchlists/by-accoun
 
 var champId = "champion=107";
 var season = "&season=11&";
+// skjul API Key i github upload
 var keyToTheCastle = "api_key=RGAPI-1e4ebf81-35cb-46a3-9b30-b692899d7052";
 
 
